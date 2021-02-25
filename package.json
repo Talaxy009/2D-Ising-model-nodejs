@@ -1,0 +1,27 @@
+{
+  "name": "2d-ising-model-nodejs",
+  "version": "1.0.0",
+  "description": "一个简单的 2D Ising 模型模拟程序(蒙特卡罗法)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Talaxy009",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Talaxy009/2D-Ising-model-nodejs.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "keywords": [
+    "ising",
+    "nodejs",
+    "javascript",
+    "js"
+  ],
+  "devDependencies": {
+    "eslint": "^7.20.0"
+  }
+}
